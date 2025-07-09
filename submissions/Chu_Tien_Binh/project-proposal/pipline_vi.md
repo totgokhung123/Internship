@@ -45,6 +45,7 @@ flowchart TD
 | **Cold start** | 3-5s | <100ms | SageMaker |
 | **Complexity** | Thấp | Cao | 🏆 Lambda |
 
+
 **Kết luận**: Lambda CLIP thắng với chi phí thấp 95%, phù hợp dự án thực tập
 
 ### 🏗️ Architecture Improvements
