@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
   subgraph "📤 Document Upload"
     A[Web Upload] -->|PDF/Image| B[S3: documents<br/>Standard-IA]
@@ -29,3 +30,4 @@ flowchart TD
     P --> Q[S3: reports]
     R[Web Dashboard] --> M
   end
+```
