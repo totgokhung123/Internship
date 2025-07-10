@@ -1,32 +1,32 @@
-# VideoSense: Serverless Video Content Search Engine with AWS Lambda & CLIP
-## Cost-Optimized Visual Search Platform for Enterprise Video Analytics
+# VideoSense: Serverless Video Content Search Engine với AWS Lambda & CLIP
+## Nền tảng tìm kiếm video tối ưu chi phí cho phân tích video doanh nghiệp
 
 ---
 
-# Executive Summary
+# Tóm tắt điều hành
 
-VideoSense is a serverless video content search engine that enables natural language search across video libraries using AI-powered visual understanding. Built on AWS Lambda and CLIP model, the solution delivers sub-5-second search responses while maintaining 95% cost savings compared to traditional ML endpoints.
+VideoSense là công cụ tìm kiếm nội dung video serverless cho phép tìm kiếm bằng ngôn ngữ tự nhiên trên thư viện video sử dụng khả năng hiểu hình ảnh được hỗ trợ bởi AI. Được xây dựng trên AWS Lambda và CLIP model, giải pháp cung cấp phản hồi tìm kiếm dưới 5 giây đồng thời duy trì 95% tiết kiệm chi phí so với các ML endpoints truyền thống.
 
-## Problem Overview
-Current video management systems lack intelligent content discovery capabilities. Organizations struggle with:
-- Manual video tagging and categorization
-- Inability to search video content by description
-- High latency for global users (200-300ms)
-- Expensive ML infrastructure ($52.60/month for basic SageMaker endpoints)
+## Tổng quan vấn đề
+Các hệ thống quản lý video hiện tại thiếu khả năng khám phá nội dung thông minh. Các tổ chức gặp khó khăn với:
+- Gắn thẻ và phân loại video thủ công
+- Không thể tìm kiếm nội dung video bằng mô tả
+- Độ trễ cao cho người dùng toàn cầu (200-300ms)
+- Cơ sở hạ tầng ML đắt đỏ ($52.60/tháng cho SageMaker endpoints cơ bản)
 
-## Proposed Solution
-**Serverless Video Intelligence Architecture:**
-- AWS Lambda + CLIP model for semantic video search
-- SceneDetect for intelligent frame extraction (1 frame/3sec)
-- 3-tier caching strategy (80% cache hit rate)
-- Multi-region deployment for global performance
+## Giải pháp đề xuất
+**Kiến trúc Serverless Video Intelligence:**
+- AWS Lambda + CLIP model cho tìm kiếm video ngữ nghĩa
+- SceneDetect cho trích xuất frame thông minh (1 frame/3giây)
+- Chiến lược caching 3 tầng (80% cache hit rate)
+- Triển khai đa vùng cho hiệu suất toàn cầu
 
-## Key Benefits
-- **95% cost reduction**: $12.43/month vs $71.21 traditional solutions
-- **Global performance**: <50ms latency worldwide
-- **Intelligent search**: Natural language queries with >70% accuracy
-- **Serverless scalability**: Auto-scale from 0 to 10,000+ concurrent users
-- **Zero maintenance**: Fully managed infrastructure
+## Lợi ích chính
+- **Giảm 95% chi phí**: $12.43/tháng so với $71.21 giải pháp truyền thống
+- **Hiệu suất toàn cầu**: <50ms độ trễ trên toàn thế giới
+- **Tìm kiếm thông minh**: Truy vấn ngôn ngữ tự nhiên với >70% độ chính xác
+- **Khả năng mở rộng serverless**: Tự động scale từ 0 đến 10,000+ người dùng đồng thời
+- **Không cần bảo trì**: Cơ sở hạ tầng được quản lý hoàn toàn
 
 ## Investment Required
 - **Development**: $45,000 (6-week implementation)
