@@ -1,8 +1,8 @@
 # Worklog - Ngày 03/07/2025
 
 ## 📅 Thông tin cơ bản
-- **Ngày**: 03/07/2025
-- **Thứ**: Năm
+- **Ngày**: 05/07/2025
+- **Thứ**: Sáu
 - **Tuần thực tập**: Tuần thứ 8/8
 - **Thời gian làm việc**: 9:00 - 17:30
 - **Mood**: 🎯 Tập trung hoàn thiện các tài liệu cuối kỳ
@@ -232,9 +232,9 @@
 ## 📎 Attachments & Links
 
 ### Learning Resources
-- [Technical Writing Best Practices](https://developers.google.com/tech-writing)
-- [AWS Documentation Guidelines](https://docs.aws.amazon.com/style-guide)
-- [Project Proposal Templates](https://www.projectmanager.com/blog/project-proposal-template)
+- [Technical Writing Best Practices](https://github.com/AWS-First-Cloud-Journey/Internship)
+- [AWS Documentation Guidelines](https://github.com/AWS-First-Cloud-Journey/Internship)
+- [Project Proposal Templates](https://github.com/AWS-First-Cloud-Journey/Internship)
 
 ### Project Files
 - [Project Proposal Draft](https://docs.example.com/project-proposal)
@@ -244,4 +244,4 @@
 ---
 
 *Worklog created by: Chu Tien Binh - FCJ Intern Batch 2025*  
-*Next review: 04/07/2025*
+*Next review: 06/07/2025*
