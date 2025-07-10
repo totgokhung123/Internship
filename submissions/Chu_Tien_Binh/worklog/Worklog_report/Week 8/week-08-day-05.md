@@ -237,9 +237,9 @@
 - [Project Proposal Templates](https://github.com/AWS-First-Cloud-Journey/Internship)
 
 ### Project Files
-- [Project Proposal Draft](https://docs.example.com/project-proposal)
-- [Blog Translation Repository](https://github.com/example/blog-translations)
-- [Worklog Template](https://docs.example.com/worklog-template)
+- [Project Proposal Draft](https://github.com/totgokhung123/Internship/blob/Chu_Tien_Binh/submissions/Chu_Tien_Binh/project-proposal/VideoSense-Project-Proposal.md)
+- [Blog Translation Repository](https://github.com/totgokhung123/Internship/tree/Chu_Tien_Binh/submissions/Chu_Tien_Binh/blog-translation)
+- [Worklog Template](https://github.com/totgokhung123/Internship/tree/Chu_Tien_Binh/submissions/Chu_Tien_Binh/worklog/Worklog_report)
 
 ---
 
