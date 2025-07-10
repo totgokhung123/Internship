@@ -1,5 +1,5 @@
 
-# Retrieve Video Event Details with CLIP Model - Optimized Pipeline
+# VideoSense: Serverless Video Content Search Engine with AWS Lambda & CLIP - Optimized Pipeline
 
 ## 🏗️ Final Optimized Architecture
 
