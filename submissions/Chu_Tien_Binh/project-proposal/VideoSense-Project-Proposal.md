@@ -5,7 +5,7 @@
 
 # Tóm tắt điều hành
 
-![alt text](image.png)
+![alt text](image-2.png)
 
 VideoSense là công cụ tìm kiếm nội dung video serverless cho phép tìm kiếm bằng ngôn ngữ tự nhiên trên thư viện video sử dụng khả năng hiểu hình ảnh được hỗ trợ bởi AI. Được xây dựng trên AWS Lambda và CLIP model, giải pháp cung cấp phản hồi tìm kiếm dưới 5 giây đồng thời duy trì 95% tiết kiệm chi phí so với các ML endpoints truyền thống.
 
@@ -117,7 +117,7 @@ Modern organizations generate massive amounts of video content but lack efficien
 
 ## Architecture Overview
 
-![alt text](image.png)
+![alt text](image-2.png)
 
 VideoSense implements a serverless-first architecture that processes videos through intelligent frame extraction, generates semantic embeddings using CLIP model, and provides fast search capabilities through multi-tier caching.
 
